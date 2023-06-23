@@ -1,6 +1,6 @@
 <div align=center>
  
-# 🚀 FzDDoS: Release v0.1 - Premium DDoS Panel 🚀
+# 🚀 Java - Powerful DDoS 🚀
 
 <p>
  <img src="https://img.shields.io/github/stars/hoaan1995/ZxCDDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
@@ -9,7 +9,7 @@
  
 </p>
 
-> Usage: python3 fzdc2.py<br>
+> Usage: java dandier.java<br>
 <p align="center">  <a href="https://t.me/realzer0hub"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
  
 ## Language</br>
