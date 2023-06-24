@@ -21,7 +21,7 @@
  - DONT RESELL THIS TOOLS! 
 
 # Tree
-* [Info](#info)
+* **[Info](#info)**
 * [Setup](#Setup)
 * [Rules](#TOS)
 * [Contact](#Contact)
