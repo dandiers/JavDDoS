@@ -33,7 +33,6 @@ One star = continuously updating multiple methods
 # Info
 - [x] Open Source
 - [x] Powerful
-- [x] Simple
 - [x] Methods for Layer 7  
 
 
