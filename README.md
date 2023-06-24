@@ -22,9 +22,9 @@
 
 # Tree
 * **[Info](#info)**
-* [Setup](#Setup)
-* [Rules](#TOS)
-* [Contact](#Contact)
+* **[Setup](#Setup)**
+* **[Rules](#TOS)**
+* **[Contact](#Contact)**
 
 # README ♥️
 Thank you for using, please help me press a star button, thank you very much.<br>
